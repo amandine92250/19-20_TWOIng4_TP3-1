@@ -1,0 +1,55 @@
+#Profil-container{
+
+	color: black;
+	width: 50%;
+	margin-top: 80px;
+	margin-left: 310px;
+		font-size: 1.4em;
+	border: 0.7px solid black;
+	background-color: antiquewhite;
+
+}
+.Changer-style{
+	padding-left: 500px;
+	padding-bottom: 30px;
+		padding-top: 20px;
+
+}
+.Profil-infos img{
+
+	-webkit-border-radius:110px;
+	-moz-border-radius:110px;
+	border-radius:110px;
+	width:200px;
+	height:200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 35px;
+
+
+}
+.Prenom{
+	padding-left: 70px;
+	display: inline;
+	padding-right: 210px;
+}
+.Nom{
+
+	display: inline;
+}
+
+.Date_naissance{
+	padding-left: 70px;
+	padding-top: 30px;
+}
+
+.button_background{
+	margin-left: 480px;
+	margin-bottom: 30px;
+}
+.button_background:active{
+	background-color: aquamarine;
+	
+}
