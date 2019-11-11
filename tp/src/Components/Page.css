@@ -1,8 +1,26 @@
-/*.profil-container{
+.App {
+	text-align: center;
+}
 
-	color: black;
-	width: 50%;
-	margin-top: 150px;
-	margin-left: 310px;
+.Switch{
+	margin-left: 650px;
+	margin-top: 50px;
+}
+.Bouton_switch {
+	margin-left: 20px;
+	padding-top: 10px;
+}
+.First{
+	margin-right: 30px;
+	width: 150px;
+}
 
-}*/
+.Second{
+	margin-right: 30px;
+	width: 150px;
+
+}
+.Third{
+	width: 150px;
+
+}

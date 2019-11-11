@@ -1,18 +1,17 @@
-#Profil-container{
+.Profil-container{
 
 	color: black;
 	width: 50%;
 	margin-top: 80px;
 	margin-left: 310px;
-		font-size: 1.4em;
+	font-size: 1.4em;
 	border: 0.7px solid black;
-	background-color: antiquewhite;
 
 }
 .Changer-style{
 	padding-left: 500px;
 	padding-bottom: 30px;
-		padding-top: 20px;
+	padding-top: 20px;
 
 }
 .Profil-infos img{
@@ -45,11 +44,3 @@
 	padding-top: 30px;
 }
 
-.button_background{
-	margin-left: 480px;
-	margin-bottom: 30px;
-}
-.button_background:active{
-	background-color: aquamarine;
-	
-}
